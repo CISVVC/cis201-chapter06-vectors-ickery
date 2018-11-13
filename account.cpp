@@ -1,3 +1,9 @@
+/*
+File: account.cpp
+Name: David Serrano
+Email: davids2016@student.vvc.edu
+Description: .cpp file for account.h
+*/
 #include "account.h"
 
 // Class initializer

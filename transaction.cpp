@@ -1,3 +1,9 @@
+/*
+File: transaction.cpp
+Name: David Serrano
+Email: davids2016@student.vvc.edu
+Description .cpp file of transaction
+*/
 #include "transaction.h"
 Transaction::Transaction(int _day, double _amount, std::string _description)
 {
